@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2023-12-13 100839](https://github.com/ROLEX2616/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149988469/5a1381e0-4133-41e6-90b9-4382df03bbef)
+
+
+### Name:Kavinraj.S
+### Register Number:23011639
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
